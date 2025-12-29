@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Fairytale",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2025-12-29T16:53:17.498082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Long-Forgotten Fairytale",
+      "artist": "The Magnetic Fields",
+      "has_synced": false,
+      "path": "select/01_Long-Forgotten_Fairytale_The_Magnetic_Fields.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sneaker Fairytale",
+      "artist": "Baasch",
+      "has_synced": false,
+      "path": "select/02_Sneaker_Fairytale_Baasch.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fairytale of New York",
+      "artist": "The Pogues [The Pogues]",
+      "has_synced": false,
+      "path": "select/03_Fairytale_of_New_York_The_Pogues_[The_Pogues].txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fairytale of New York (feat. Kirsty MacColl) [Edit]",
+      "artist": "The Pogues",
+      "has_synced": true,
+      "path": "select/04_Fairytale_of_New_York_(feat._Kirsty_MacColl)_[Edit]_The_Pogues.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fairytale Of New York - Extract From 1st Demo",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/05_Fairytale_Of_New_York_-_Extract_From_1st_Demo_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fairytale of New York (extract from 1st demo)",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/06_Fairytale_of_New_York_(extract_from_1st_demo)_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fairytale Of New York - Extract From 2nd Demo",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/07_Fairytale_Of_New_York_-_Extract_From_2nd_Demo_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fairytale Of New York - Extract From 3rd Demo",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/08_Fairytale_Of_New_York_-_Extract_From_3rd_Demo_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fairytale of New York (extract from 3rd demo)",
+      "artist": "The Pogues",
+      "has_synced": false,
+      "path": "select/09_Fairytale_of_New_York_(extract_from_3rd_demo)_The_Pogues.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fairytale",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/10_Fairytale_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fairytale of New York",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/11_Fairytale_of_New_York_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fairytale",
+      "artist": "Sara Bareilles",
+      "has_synced": false,
+      "path": "select/12_Fairytale_Sara_Bareilles.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fairytale Of New York",
+      "artist": "Jon Bon Jovi",
+      "has_synced": true,
+      "path": "select/13_Fairytale_Of_New_York_Jon_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spacetime Fairytale",
+      "artist": "Regina Spektor",
+      "has_synced": true,
+      "path": "select/14_Spacetime_Fairytale_Regina_Spektor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fairytale,",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_Fairytale,_伊東歌詞太郎.txt"
+    }
+  ]
+}
